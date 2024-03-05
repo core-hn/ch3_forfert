@@ -4,6 +4,7 @@ draft: false
 tags: 
 date: 05-03-2024
 ---
+# TESTTTTTT
  Pour retracer l'introduction des technologies au sein des établissements carcéraux, nous avons rencontré Charles Forfet. [[Charles Forfert - Biographie|Qui est Charles Forfert ?]] 
 Ce chapitre vous est proposé sous la forme hypertextuelle. L'entretien est enrichi de notes, médias et présentations que vous pouvez consulter au travers des liens hypertextuels au fil de ce chapitre.
 ***
