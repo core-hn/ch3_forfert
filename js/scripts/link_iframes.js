@@ -1,3 +1,7 @@
+/**
+ * @RunJS styles/link_iframes
+ * @RunJS {n:'styles/link_iframes'}
+ */
 $(".hover_frame").mouseover(function() {
     // Vérifie si l'iframe n'a pas déjà été ajouté
     if ($(this).children(".description").length === 0) {
