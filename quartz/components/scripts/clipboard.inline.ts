@@ -32,4 +32,45 @@ document.addEventListener("nav", () => {
       els[i].prepend(button)
     }
   }
-})
+});
+/* Link to iframes */
+document.addEventListener("DOMContentLoaded", function() {
+  // Sélectionne tous les éléments avec la classe 'hover_frame'
+  var hoverFrames = document.querySelectorAll('.hover_frame');
+
+  hoverFrames.forEach(function(hoverFrame) {
+      hoverFrame.addEventListener('mouseover', function() {
+          // Vérifie si le popover n'a pas déjà été ajouté
+          if (!this.querySelector('.popover.description')) {
+              // Crée un nouvel élément div pour le popover
+              var popover = document.createElement('div');
+              popover.className = 'popover description';
+              popover.style.display = 'none'; // Commence caché
+
+              // Crée un nouvel élément iframe pour l'intérieur du popover
+              var iframe = document.createElement('iframe');
+              iframe.className = 'popover-inner';
+              iframe.src = this.getAttribute('href');
+              iframe.height = '400px';
+              iframe.width = '400px';
+
+              // Insère l'iframe dans le popover
+              popover.appendChild(iframe);
+
+              // Ajoute le popover comme enfant de l'élément courant
+              this.appendChild(popover);
+          }
+          // Montre le popover
+          this.querySelector('.popover.description').style.display = 'block';
+      });
+
+      hoverFrame.addEventListener('mouseout', function() {
+          // Cache le popover
+          var popover = this.querySelector('.popover.description');
+          if (popover) {
+              popover.style.display = 'none';
+          }
+      });
+  });
+});
+console.log("Le composant a terminé !");
