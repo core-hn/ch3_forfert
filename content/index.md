@@ -32,4 +32,4 @@ Cette opération était très intéressante, mais le problème, c'est que je sui
 
 Le seul qui a "récidivé". Mais le pauvre, il avait bien gagné sa vie. En sortant, il a rencontré une nana et il a voulu se faire une petite année sabbatique. Il est parti au Népal, en Inde, à droite, à gauche avec sa copine. Et puis là-haut, il a eu un accident de moto, avec une grosse blessure à une viande et quand il a été rapatrié en France, il a été reconnu adulte handicapé et donc il a vivoté de sa petite pension d'adulte handicapé, fumant son petit joint le soir sur les hauteurs de Nice[^1] avec sa copine regardant le coucher de soleil. Et il allait chercher sa came une fois par mois, ou tous les deux ou trois mois en passant par Sète.
 
-[^1] Le nom de la ville a été modifié pour garantir l'anonymat.
+[^1]: Le nom de la ville a été modifié pour garantir l'anonymat.
