@@ -62,6 +62,8 @@ Ils faisaient des petits reportages à l'intérieur pour expliquer quelque chose
 
 Il y a ceux qui regardaient les informations de la chaîne sur ce qui se passait à l'intérieur, il y a ceux qui voulaient s'informer que les horaires de parloir étaient modifiés parce qu'il y avait des jours fériés pour qu'ils préviennent leur famille, et cetera. Donc il y avait des informations le quotidien, puis il y avait des petits programmes un peu plus culturels ou informatifs ou documentaires.
 
+Donc ce projet a très bien fonctionné, même quand je suis parti. Jusqu’à ce qu’un directeur, que je connais bien, arrive là-bas et décide d’arrêter la chaîne, au motif sécuritaire. Et il avait, comme preuve, fourni une cassette. Qui est un terrible magouille entre un surveillant de la zone où il y avait le studio et puis un un détenu, qui comme par hasard était fautif et aurait dû être aurait dû être puni et en fait a une libération conditionnelle à la demande de l'administration, un mois plus tard.
+
 [^1]: Le nom de la ville a été modifié pour garantir l'anonymat.
 [^2]: Prison où exerçait Charles Forfert avant son départ à la retraite, cf [[Charles Forfert - Biographie|sa biographie]].
 [^3]: Charles Forfert regrette que l'administration pénitentiaire ne développe pas sur le territoire national les initiatives locales qui ont fait leurs preuves.
