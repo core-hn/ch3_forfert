@@ -1,12 +1,12 @@
 ---
 title: Plan informatique pour tous
-draft: true
+draft: false
 tags: 
 date: 05-03-2024
 ---
 [[Thomson TO7]] 
 
-Le lien entre les Thomson TO7 et le plan "Informatique Pour Tous" réside dans le fait que le plan IPT (Informatique Pour Tous) a fait appel aux ordinateurs Thomson MO5 et TO7/70, mais pas directement au Thomson TO7. Le plan "Informatique Pour Tous" était un programme du gouvernement français visant à initier les élèves à l'outil informatique, et il a été lancé après la fin de la production du Thomson TO7. Ainsi, bien que les Thomson TO7 aient été des ordinateurs populaires à l'époque, ce sont les modèles MO5 et TO7/70 qui ont été utilisés dans le cadre du plan IPT pour promouvoir l'informatique à grande échelle dans les établissements d'enseignement[1](https://fr.wikipedia.org/wiki/Thomson_TO7)[2](https://www.nodesign.net/blog/plan-informatique-pour-tous-ipt-saudade-du-futur/).
+Le lien entre les Thomson TO7 et le plan "Informatique Pour Tous" réside dans le fait que le plan IPT (Informatique Pour Tous) a fait appel aux ordinateurs Thomson MO5 et TO7/70, mais pas directement au Thomson TO7. Le plan "Informatique Pour Tous" était un programme du gouvernement français visant à initier les élèves à l'outil informatique, et il a été lancé après la fin de la production du Thomson TO7. Ainsi, bien que les Thomson TO7 aient été des ordinateurs populaires à l'époque, ce sont les modèles MO5 et TO7/70 qui ont été utilisés dans le cadre du plan IPT pour promouvoir l'informatique à grande échelle dans les établissements d'enseignement^[[Wikipédia Thomson TO7](https://fr.wikipedia.org/wiki/Thomson_TO7)]^[[nodesign.net](https://www.nodesign.net/blog/plan-informatique-pour-tous-ipt-saudade-du-futur/)].
 
 ## Points clés
 
