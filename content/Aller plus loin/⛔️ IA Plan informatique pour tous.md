@@ -6,7 +6,7 @@ date: 05-03-2024
 ---
 [[Thomson TO7]] 
 
-Le lien entre les Thomson TO7 et le plan "Informatique Pour Tous" réside dans le fait que le plan IPT (Informatique Pour Tous) a fait appel aux ordinateurs Thomson MO5 et TO7/70, mais pas directement au Thomson TO7. Le plan "Informatique Pour Tous" était un programme du gouvernement français visant à initier les élèves à l'outil informatique, et il a été lancé après la fin de la production du Thomson TO7. Ainsi, bien que les Thomson TO7 aient été des ordinateurs populaires à l'époque, ce sont les modèles MO5 et TO7/70 qui ont été utilisés dans le cadre du plan IPT pour promouvoir l'informatique à grande échelle dans les établissements d'enseignement^[[Wikipédia Thomson TO7](https://fr.wikipedia.org/wiki/Thomson_TO7)]^[[nodesign.net](https://www.nodesign.net/blog/plan-informatique-pour-tous-ipt-saudade-du-futur/)].
+Le lien entre les Thomson TO7 et le plan "Informatique Pour Tous" réside dans le fait que le plan IPT (Informatique Pour Tous) a fait appel aux ordinateurs Thomson MO5 et TO7/70, mais pas directement au Thomson TO7. Le plan "Informatique Pour Tous" était un programme du gouvernement français visant à initier les élèves à l'outil informatique, et il a été lancé après la fin de la production du Thomson TO7. Ainsi, bien que les Thomson TO7 aient été des ordinateurs populaires à l'époque, ce sont les modèles MO5 et TO7/70 qui ont été utilisés dans le cadre du plan IPT pour promouvoir l'informatique à grande échelle dans les établissements d'enseignement[^1][^2].
 
 ## Points clés
 
@@ -34,3 +34,6 @@ Le plan "Informatique Pour Tous" a également été étendu au milieu pénitenti
 - Cette extension du plan avait pour objectif d'offrir aux personnes incarcérées la possibilité d'acquérir des compétences en informatique, facilitant ainsi leur réinsertion sociale et professionnelle après leur libération[1](https://fr.wikipedia.org/wiki/Plan_informatique_pour_tous).
 
 En résumé, le plan "Informatique Pour Tous" a été étendu au milieu pénitentiaire pour offrir aux détenus la possibilité de se former à l'informatique et d'acquérir des compétences utiles pour leur réintégration dans la société.
+
+[^1]: [Wikipédia Thomson TO7](https://fr.wikipedia.org/wiki/Thomson_TO7)
+[^2]: [nodesign.net](https://www.nodesign.net/blog/plan-informatique-pour-tous-ipt-saudade-du-futur/) 
