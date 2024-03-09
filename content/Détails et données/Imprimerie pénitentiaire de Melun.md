@@ -10,7 +10,7 @@ Le projet a été déployé en 2019, par le centre de détention de Melun, sous 
 Ce n'est pas la seule formation que propose l'imprimerie pénitentiaire de Melun, on peut lire cet avis sur le site "travail-prison.fr", il semble donc que le voeu formulé par C. Forfert ait été exaucé : 
 ![[avis-formation-opérateurPAO.png]]
 
-En plus d'offrir ces formations, un [[2017_Rapport_activite_SEP-RIEP_V13_bd.pdf|rapport d'activité]] présente qu'en 2017 l'imprimerie employait au total 90 détenus dans le SEP-RIEP[^sep-riep]. 
+En plus d'offrir ces formations, un [[2017_Rapport_activite_SEP-RIEP_V13_bd.pdf|rapport d'activité]] présente qu'en 2017 l'imprimerie employait au total 90 détenus dans le SEP-RIEP[^sep-riep][^atigip]. 
 [Aujourd'hui l'imprimerie pénitentiaire de Melun](https://www.atigip-justice.fr/static/uploads/Plaquette_imprimerie.pdf) emploie de nombreux détenus à une grande diversité de postes liés à la DAO[^dao], l'impression et la PAO, ainsi que le façonnage et la reliure.
 
 Le code pénitentiaire, édité pour la première fois en papier au cours de l'année 2022, a été imprimé à Melun, dans le centre pénitentiaire.
@@ -18,5 +18,6 @@ Le code pénitentiaire, édité pour la première fois en papier au cours de l'a
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [^la-republique]: Formation. Le centre de détention de Melun, pionnier de l’apprentissage en prison | La République de Seine et Marne. (2021, September 24). actu.fr. Url : https://actu.fr/ile-de-france/melun_77288/formation-le-centre-de-detention-de-melun-pionnier-de-l-apprentissage-en-prison_45018634.html
-[^sep-riep]: 
+[^sep-riep]: Service d'emploi pénitentiaire - Régie industrielle des établissements pénitentiaires. Ce service, "placé sous l'autorité du directeur de l'administration pénitentiaire", permet de lier les industries pénitentiaires où les détenus sont employés et les entreprises ou organismes clients de ces industries. [Source](https://www.economie.gouv.fr/dae/achat-et-progres-social-service-lemploi-penitentiaire-sep-riep-presente-offre) ; Site du [SEP-RIEP de Melun](https://www.sep-riep.com/)
+[^atigip]: Le SEP-RIEP de Melun est géré par l'ATIGIP ( L’agence du travail d’intérêt général et de l’insertion professionnelle), "un service à compétence nationale, créé en 2018 au sein du Ministère de la Justice.
 [^dao]: Dessin assisté par ordinateur.
