@@ -5,7 +5,7 @@ tags:
 date: 03-05-2024
 h1: Plan "Informatiques pour tous" en Prison (1985)
 ---
-Dans son entretien, C. Forfert mentionne l'acquisition de [[Thomson TO7]] en 1982, dans le cadre du "Plan Informatique pour Tous" (PIT). Pour développer son propos, nous devons éclaircir quelques points. D'abord, contextualiser le propos de C. Forfert puis expliquer ce qu'est le PIT et l'impact qu'il a eu sur le territoire national français. Ensuite, expliciter son déroulement dans le cadre des établissements pénitentiaires. 
+Dans son entretien, C. Forfert mentionne l'acquisition de Thomson TO7 en 1982, dans le cadre du "Plan Informatique pour Tous" (PIT). Pour développer son propos, nous devons éclaircir quelques points. D'abord, contextualiser le propos de C. Forfert puis expliquer ce qu'est le PIT et l'impact qu'il a eu sur le territoire national français. Ensuite, expliciter son déroulement dans le cadre des établissements pénitentiaires. 
 
 ## Plan informatique pour tous
 En 1985, le gouvernement français initie le plan national "Informatique Pour Tous" pour introduire l'outil informatique dans l'enseignement public. Voici un aperçu des principaux points de ce plan[^com-fabius-85][^com-fabius-85-2] :

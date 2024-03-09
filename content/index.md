@@ -9,7 +9,7 @@ Ce chapitre vous est proposé sous la forme hypertextuelle. L'entretien est enri
 ***
 ## Quels souvenirs avez-vous de l'introduction de la technologie à d'autres fins que la sécurité en prison ?
 
-La première fois remonte au [[PIT-prison|plan informatique pour tous en 1982]][^PIT]. Nous faisions partie des établissements équipés des premiers [[Thomson TO7|TO7]]. Alors évidemment, il faut ramener à ce que c'était à l'époque le TO7. Mais bon, ça a participé à un engouement, à quelque chose d'excitant, qui a aussi aux instituteurs de réfléchir aux modalités pédagogiques.
+La première fois remonte au [[PIT-prison|plan informatique pour tous en 1982]][^PIT]. Nous faisions partie des établissements équipés des premiers TO7. Alors évidemment, il faut ramener à ce que c'était à l'époque le TO7. Mais bon, ça a participé à un engouement, à quelque chose d'excitant, qui a aussi aux instituteurs de réfléchir aux modalités pédagogiques.
 
 L'année suivante, 1983, on a eu l'entrée de la télévision. Et là aussi, même si les programmes télé de l'époque n'étaient pas ceux d'aujourd'hui, il y avait aussi des documentaires, en dehors du divertissement, de la consommation pure et simple de la télé dans la cellule. Donc là aussi ça a été un départ.
 
