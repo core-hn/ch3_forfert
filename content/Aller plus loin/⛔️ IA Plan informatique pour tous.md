@@ -1,6 +1,6 @@
 ---
 title: Plan informatique pour tous
-draft: false
+draft: true
 tags: 
 date: 05-03-2024
 ---
@@ -37,6 +37,7 @@ D'après N. Aubin-Gardé[^5], le CLIP "intervient depuis 1985 bénévolement dan
 
 ## 1982 les TO7 : contexte
 ![[1982-83-atelier-informatique.png|Légende de l'image]]
+![Légende de l'image](1982-83-atelier-informatique.png)
 Source : https://data.decalog.net/enap1/Liens/DAP/DAP_RA_1983.pdf
 
 [^1]:  [Wikipédia Thomson TO7](https://fr.wikipedia.org/wiki/Thomson_TO7)
