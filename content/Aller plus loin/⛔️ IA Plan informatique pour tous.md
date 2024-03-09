@@ -1,6 +1,6 @@
 ---
 title: Plan informatique pour tous
-draft: true
+draft: false
 tags: 
 date: 05-03-2024
 ---
