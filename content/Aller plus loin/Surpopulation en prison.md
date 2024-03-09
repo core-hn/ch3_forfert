@@ -40,9 +40,10 @@ Le CGLPL (Contrôleur général des lieux de privation de liberté) a publié un
 - L'accès aux activités, à l'enseignement, et à la formation professionnelle est limité, compromettant les objectifs de réinsertion.
 - La surpopulation rend inopérants les services d'insertion et de probation, augmentant le risque de récidive et la défiance envers la justice.
 ### Pour le personnel pénitentiaire
-- Les surveillants se retrouvent souvent à gérer des flux de détenus sans pouvoir assurer un suivi adéquat, ce qui rend leur travail plus difficile et ingrat[3](https://www.observatoire-disparites-justice-penale.fr/les-conditions-de-d%C3%A9tention/la-surpopulation-carc%C3%A9rale).
-- La surpopulation expose le personnel à des conditions de détention marquées par des tensions quotidiennes, augmentant les risques pour leur sécurité[5](https://www.ccomptes.fr/system/files/2023-10/20231005-surpopulation-carcerale-persistante.pdf).
-    
+- Les surveillants se retrouvent souvent à gérer des flux de détenus sans pouvoir assurer un suivi adéquat, ce qui rend leur travail plus difficile et ingrat[^obs-disp-penales].
+- La surpopulation expose le personnel "à des conditions de détention marquées par des tensions quotidiennes, augmentant les risques pour leur sécurité"[^ccompte]
 Ces conséquences soulignent l'urgence de remédier à la surpopulation carcérale en France pour garantir des conditions de détention respectueuses de la dignité des détenus et assurer un environnement de travail sûr et efficace pour le personnel pénitentiaire.
 
 [^archives-dir-pénitentiaire]: https://data.decalog.net/enap1/Liens/DAP/DAP_RA_1982.pdf
+[^obs-disp-penales]: Monnery, B. (2021, octobre 7). _Disparités dans la justice pénale—La surpopulation carcérale_. Observatoire des disparités dans la justice pénale. [https://www.observatoire-disparites-justice-penale.fr/les-conditions-de-détention/la-surpopulation-carcérale](https://www.observatoire-disparites-justice-penale.fr/les-conditions-de-détention/la-surpopulation-carcérale)
+[^ccompte]: Une surpopulation carcérale persistante, une politique d’exécution des peines en question_. (2023, octobre 5). [https://www.ccomptes.fr/fr/publications/une-surpopulation-carcerale-persistante-une-politique-dexecution-des-peines-en](https://www.ccomptes.fr/fr/publications/une-surpopulation-carcerale-persistante-une-politique-dexecution-des-peines-en)
