@@ -14,10 +14,7 @@ On constate pour l'ancienne Maison d'arrêt de Strasbourg un taux d'encombrement
 
 L'observatoire des Disparités dans la Justice Pénale a modélisé [de nombres graphiques](https://www.observatoire-disparites-justice-penale.fr/les-conditions-de-d%C3%A9tention/la-surpopulation-carc%C3%A9rale) entre 2014 et 2020 pour représenter l'évolution de la surpopulation carcérale à partir des données de l'administration pénitentiaire. Voici l'un d'entre eux, vous pouvez consulter [leur page](https://www.observatoire-disparites-justice-penale.fr/les-conditions-de-d%C3%A9tention/la-surpopulation-carc%C3%A9rale) pour plus de graphiques et surtout leurs commentaires  :
 
-<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/6375364">
-	<script src="https://public.flourish.studio/resources/embed.js"></script>
-	<iframe scrolling="no" frameborder="0" title="Interactive or visual content" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" style="width: 100%; height: 575px;" src="https://flo.uri.sh/visualisation/6375364/embed?auto=1"></iframe>
-</div>
+<iframe scrolling="no" frameborder="0" title="Interactive or visual content" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" style="width: 100%; height: 575px;" src="https://flo.uri.sh/visualisation/6375364/embed?auto=1"></iframe>
 
 ## Un problème qui infiltre toute la vie carcérale
 
