@@ -9,7 +9,7 @@ Ce chapitre vous est proposé sous la forme hypertextuelle. L'entretien est enri
 ***
 ## Quels souvenirs avez-vous de l'introduction de la technologie à d'autres fins que la sécurité en prison ?
 
-La première fois remonte au [[⛔️ IA Plan informatique pour tous|plan informatique pour tous en 1982]][^PIT]. Nous faisions partie des établissements équipés des premiers [[Thomson TO7|TO7]]. Alors évidemment, il faut ramener à ce que c'était à l'époque le TO7. Mais bon, ça a participé à un engouement, à quelque chose d'excitant, qui a aussi aux instituteurs de réfléchir aux modalités pédagogiques.
+La première fois remonte au [[Plan informatique pour tous en prison|plan informatique pour tous en 1982]][^PIT]. Nous faisions partie des établissements équipés des premiers [[Thomson TO7|TO7]]. Alors évidemment, il faut ramener à ce que c'était à l'époque le TO7. Mais bon, ça a participé à un engouement, à quelque chose d'excitant, qui a aussi aux instituteurs de réfléchir aux modalités pédagogiques.
 
 L'année suivante, 1983, on a eu l'entrée de la télévision. Et là aussi, même si les programmes télé de l'époque n'étaient pas ceux d'aujourd'hui, il y avait aussi des documentaires, en dehors du divertissement, de la consommation pure et simple de la télé dans la cellule. Donc là aussi ça a été un départ.
 
@@ -167,7 +167,7 @@ Les projets restent toujours des initiatives locales qui ne se propagent pas au 
 
 L'administration central ne conserve pas de traces. Il n'y a pas un service chargé de recenser les initiatives des prisons, SPIP et milieux ouverts de France pour ensuite généraliser les expérimentations prometteuses. Ils pourraient développer certaines expérimentation à quelques établissements supplémentaires, et faire progresser la réinsertion. Malheureusement, ce n'est pas ainsi que fonctionne notre administration pénitentiaire.
 
-[^PIT]: Le plan informatique pour tous (PIT) n'a pas été strictement ouvert en 1982, plutôt en 1985. Les TO7 ont véritablement été édités en 1982, mais n'étaient pas les modèles impliqués dans le PIT. Plus d'informations sur [[⛔️ IA Plan informatique pour tous|la page dédiée]].
+[^PIT]: Le plan informatique pour tous (PIT) n'a pas été strictement ouvert en 1982, plutôt en 1985. Les TO7 ont véritablement été édités en 1982, mais n'étaient pas les modèles impliqués dans le PIT. Plus d'informations sur [[Plan informatique pour tous en prison|la page dédiée]].
 [^anonymat]: Le nom de la ville a été modifié pour garantir l'anonymat.
 [^maguelone]: Prison où exerçait Charles Forfert avant son départ à la retraite, cf [[Charles Forfert - Biographie|sa biographie]].
 [^administration]: Charles Forfert regrette que l'administration pénitentiaire ne développe pas sur le territoire national les initiatives locales qui ont fait leurs preuves.
