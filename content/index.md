@@ -40,9 +40,7 @@ En tout cas, il n'a jamais recomis de délit grave, ce dont il avait l'habitude 
 
 Le grand intérêt de cette formation, c'est que les jobs ensuite étaient intéressants et que les détenus entraient dans d'autres sphères. 
 
-Alors certes, entre-temps, petit à petit, ils se sont modernisés, mais on avait une imprimerie dans l'administration pénitentiaire à Melun. On aurait pu en profiter[^administration], pour moderniser cette imprimerie beaucoup plus tôt. Et utiliser la PAO et tous les nouveaux outils qui étaient à disposition. Bon aujourd'hui, certainement qu'ils l'ont fait.
-
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Son impression a été réalisée par des personnes détenues au sein des ateliers d’imprimerie du centre pénitentiaire de Melun, sous l’égide de l’ATIGIP.<br>➕ de 6400 exemplaires sont sortis des presses. Ils seront diffusés dans les établissements pénitentiaires et les SPIP. <a href="https://t.co/u5fUfGhCVH">pic.twitter.com/u5fUfGhCVH</a></p>&mdash; Ministère de la Justice (@justice_gouv) <a href="https://twitter.com/justice_gouv/status/1532412631692222466?ref_src=twsrc%5Etfw">June 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Alors certes, entre-temps, petit à petit, ils se sont modernisés, mais on avait une imprimerie dans l'administration pénitentiaire à Melun. On aurait pu en profiter[^administration], pour moderniser cette imprimerie beaucoup plus tôt. Et utiliser la PAO et tous les nouveaux outils qui étaient à disposition. Bon aujourd'hui, certainement qu'[[Imprimerie pénitentiaire de Melun|ils l'ont fait]].
 
 Encore que, avec la dématérialisation, je ne suis pas sûr que l'imprimerie existe encore. Là aussi je je suis un peu out au niveau des bonnes informations. Enfin voilà. Cette opération financée par le FSE a été très suivie, car il y avait un coût important quand même. Cette opération a donné des idées à d’autres, pour de nouvelles initiatives, pour faire tourner leur imagination et essayer de trouver des choses qui pouvaient galvaniser un peu les troupes.
 
