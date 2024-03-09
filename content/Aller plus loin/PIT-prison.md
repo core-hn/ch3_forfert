@@ -1,8 +1,9 @@
 ---
-title: Plan informatique pour tous
+title: Informatique pour tous (1985)
 draft: false
 tags: 
 date: 05-03-2024
+h1: Plan "Informatiques pour tous" en Prison (1985)
 ---
 Dans son entretien, C. Forfert mentionne l'acquisition de [[Thomson TO7]] en 1982, dans le cadre du "Plan Informatique pour Tous" (PIT). Pour développer son propos, nous devons éclaircir quelques points. D'abord, contextualiser le propos de C. Forfert puis expliquer ce qu'est le PIT et l'impact qu'il a eu sur le territoire national français. Ensuite, expliciter son déroulement dans le cadre des établissements pénitentiaires. 
 
@@ -22,6 +23,7 @@ Ce plan est considéré comme une étape importante de l'histoire française en 
 
 > [!note] Extrait d'archives
 >  ![[1982-83-atelier-informatique.png]]
+>  
 >  [Source](https://data.decalog.net/enap1/Liens/DAP/DAP_RA_1983.pdf)
 
 Le matériel déployé par l'État lors du PIT était essentiellement composé de Thomson MO5 et TO7/70, un modèle ultérieur au TO7 mentionné plus tôt. Ces deux modèles se distinguent du TO7 par l'ancêtre de la souris, le stylet, qui facilite considérablement l'utilisation de l'outil informatique[^nodesign].
