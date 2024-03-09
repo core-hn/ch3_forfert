@@ -40,5 +40,8 @@ Certaines associations sont présentes "sur tous les fronts", ce qui est le cas 
 
 Il émerge des discours de chacun de ces acteurs un message selon lequel les associations portent des missions que l'administration pénitentiaire ne parvient pas à mener seule. Elles ont également un rôle d'alerte, ou de productions statistiques, pour aider l'état à piloter l'administration pénitentiaire. Cette formulation est précautionneuse, car il s'agit d'un discours militant, de nombreux bénévoles impliqués dans leurs missions le sont par militantisme. Pour autant, ce discours est corroboré par l'entretien avec C. Forfert.
 
+Notons tout de monde que nombre d'associations qui constellent autour des établissements et de l'administration pénitentiaire travaillent avec ceux-ci. Elles bénéficient de conventions, parfois me partenariats et financements de l'état, du ministère, pour effectuer ces missions qui sont reconnues, le plus souvent, d'intérêt général ou public.
+
+La relation de ces association avec les personnalités politiques, qu'il s'agisse de députés, de responsables de l'administration pénitentiaire centrale, régionale ou d'établissements, sont le plus souvent excellentes. Tout le monde dans l'éco-système pénitentiaire connaît et respecte le travail de leurs bénévoles, pourtant militants.
 
 [^réseau-asso]: 
