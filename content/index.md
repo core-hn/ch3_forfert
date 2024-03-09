@@ -15,7 +15,7 @@ L'année suivante, 1983, on a eu l'entrée de la télévision. Et là aussi, mê
 
 ## Projet PAO - Maison d'arrêt de Strasbourg (1988-92)
 
-Ensuite, je me souviens, on a commencé à faire de la [[Publication assistée par Ordinateur|PAO]], la publication assistée par ordinateur. Mais dans un but d'imprimerie, strictement d'imprimerie. On avait envisagé ça plutôt comme d'un moyen de faire rentrer de l'argent dans les caisses de l'[[Associations des établissements carcéraux|association]] en faisant de la PAO, en apprenant aux gens à faire de la PAO.  
+Ensuite, je me souviens, on a commencé à faire de la [[Publication assistée par Ordinateur|PAO]], la publication assistée par ordinateur. Mais dans un but d'imprimerie, strictement d'imprimerie. On avait envisagé ça plutôt comme d'un moyen de faire rentrer de l'argent dans les caisses de l'[[Associations des établissements pénitentiaires|association]] en faisant de la PAO, en apprenant aux gens à faire de la PAO.  
 
 Et derrière on avait acheté une <a class="hover_frame" href="https://fr.wikipedia.org/wiki/Offset_(imprimerie)">offset</a>, en 1987,  au Républicain Lorrain et on imprimait donc des trucs publicitaires pour des boîtes. Donc ça a mis la puce à l'oreille du responsable régional de Strasbourg, à l'époque, pour l'ouverture de la nouvelle prison de Strasbourg. Il m'avait proposé de postuler comme chef de service et de mener un projet PAO, à des visées plus formatives.
 
