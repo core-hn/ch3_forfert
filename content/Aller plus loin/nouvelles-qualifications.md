@@ -2,7 +2,7 @@
 title: '"Nouvelles Qualifications" (1988)'
 draft: false
 tags: 
-date: 05-03-2024
+date: 03-05-2024
 ---
 Dans [[index|l'entretien]] avec [[Charles Forfert - Biographie|Charles Forfet]], un sujet récurrent a capté notre attention : la mission nationale "Nouvelles Qualifications" de 1988. 
 

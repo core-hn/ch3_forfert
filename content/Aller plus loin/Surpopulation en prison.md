@@ -2,7 +2,7 @@
 title: Surpopulation en prison
 draft: false
 tags: 
-date: 09-03-2024
+date: 03-09-2024
 ---
 L'historique de l'introduction des technologies en prison que nous offre C. Forfert au cours de cet entretien nous permet de soulever d'autres thématiques pour mieux exposer la réalité carcérale.
 ## Situation de surpopulation

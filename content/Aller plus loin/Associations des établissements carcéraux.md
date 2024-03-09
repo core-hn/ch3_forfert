@@ -1,7 +1,8 @@
 ---
 title: Associations des établissements carcéraux
 draft: true
-tags:
+tags: 
+date:
 ---
 ## Sur la partie Pao, tu disais dans le cadre d'une association...
 > Oui, dans le cadre de l'Association tu sais, dans chaque prison, il y avait une association.Et c'est et donc l'association de Metz pour qu'elle ait plus de rentrées d'argent pour pouvoir faire plus de choses. Aussi bien dans le culturel, que dans le pédagogique. Il fallait assurer quand même un minimum et et dépendre toujours de subventions. Moi, ça me...
