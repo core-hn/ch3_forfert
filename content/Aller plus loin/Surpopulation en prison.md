@@ -20,7 +20,7 @@ On constate pour l'ancienne Maison d'arrêt de Strasbourg un taux d'encombrement
 
 Cette partie de l'entretien nous paraissait intéressante à extraire de l'entretien pour la présenter dans une page dédiée à la surpopulation. En effet, lorsque l'on évoque la surpopulation, on évoque le taux d'encombrement : le nombre de personnes détenues au total en regard du nombre de cellules totales. 
 
-Une tension sociale s'exerce bien-sûr au sein des cellules, et peuvent générer des [problèmes](#les-mecanismes-a-loeuvre-consequents-a-la-surpopulation). Cependant, cette tension s'exerce aussi sur les places disponibles pour travailler, s'occuper, accéder à un accompagnement, et la formation peut-être gravement impactée par la surpopulation.
+Une tension sociale s'exerce bien-sûr au sein des cellules, et peuvent générer des [problèmes](#les-m%C3%A9canismes-%C3%A0-loeuvre-cons%C3%A9quents-%C3%A0-la-surpopulation). Cependant, cette tension s'exerce aussi sur les places disponibles pour travailler, s'occuper, accéder à un accompagnement, et la formation peut-être gravement impactée par la surpopulation.
 ## Les mécanismes à l'oeuvre conséquents à la surpopulation
 
 > [!cite] Citation de Charles Forfert au cours de l'entretien
