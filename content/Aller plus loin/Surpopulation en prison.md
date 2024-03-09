@@ -14,8 +14,10 @@ On constate pour l'ancienne Maison d'arrêt de Strasbourg un taux d'encombrement
 
 L'observatoire des Disparités dans la Justice Pénale a modélisé [de nombres graphiques](https://www.observatoire-disparites-justice-penale.fr/les-conditions-de-d%C3%A9tention/la-surpopulation-carc%C3%A9rale) entre 2014 et 2020 pour représenter l'évolution de la surpopulation carcérale à partir des données de l'administration pénitentiaire. Voici l'un d'entre eux, vous pouvez consulter [leur page](https://www.observatoire-disparites-justice-penale.fr/les-conditions-de-d%C3%A9tention/la-surpopulation-carc%C3%A9rale) pour plus de graphiques et surtout leurs commentaires  :
 
-
-<iframe scrolling="no" frameborder="0" title="Interactive or visual content" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" style="width: 100%; height: 575px;" src="https://flo.uri.sh/visualisation/6375364/embed?auto=1"></iframe>
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/6375364">
+	<script src="https://public.flourish.studio/resources/embed.js"></script>
+	<iframe scrolling="no" frameborder="0" title="Interactive or visual content" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" style="width: 100%; height: 575px;" src="https://flo.uri.sh/visualisation/6375364/embed?auto=1"></iframe>
+</div>
 
 ## Un problème qui infiltre toute la vie carcérale
 
@@ -49,3 +51,5 @@ Ces conséquences soulignent l'urgence de remédier à la surpopulation carcéra
 [^archives-dir-pénitentiaire]: https://data.decalog.net/enap1/Liens/DAP/DAP_RA_1982.pdf
 [^obs-disp-penales]: Monnery, B. (2021, octobre 7). _Disparités dans la justice pénale—La surpopulation carcérale_. Observatoire des disparités dans la justice pénale. [https://www.observatoire-disparites-justice-penale.fr/les-conditions-de-détention/la-surpopulation-carcérale](https://www.observatoire-disparites-justice-penale.fr/les-conditions-de-détention/la-surpopulation-carcérale)
 [^ccompte]: Une surpopulation carcérale persistante, une politique d’exécution des peines en question_. (2023, octobre 5). [https://www.ccomptes.fr/fr/publications/une-surpopulation-carcerale-persistante-une-politique-dexecution-des-peines-en](https://www.ccomptes.fr/fr/publications/une-surpopulation-carcerale-persistante-une-politique-dexecution-des-peines-en)
+
+<script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
