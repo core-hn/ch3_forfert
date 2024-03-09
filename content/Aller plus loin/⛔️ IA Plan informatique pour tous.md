@@ -36,7 +36,8 @@ D'après N. Aubin-Gardé[^5], le CLIP "intervient depuis 1985 bénévolement dan
 > Le CLIP intervient dans une cinquantaine d'établissements pénitentiaires français. Pour enseigner les bases de la navigation Internet, l'association a conçu un « simulateur internet », Clipinet qui n'a aucune communication avec l'extérieur mais héberge localement ue cenaine de sites. Le logiciel fonctionne dans une structure de réseau local, un des ordinateurs de la salle informatique étant utilisé comme serveur.
 
 ## 1982 les TO7 : contexte
-![Légende de l'image](1982-83-atelier-informatique.png)
+![[1982-83-atelier-informatique.png]]
+
 Source : https://data.decalog.net/enap1/Liens/DAP/DAP_RA_1983.pdf
 
 [^1]:  [Wikipédia Thomson TO7](https://fr.wikipedia.org/wiki/Thomson_TO7)
