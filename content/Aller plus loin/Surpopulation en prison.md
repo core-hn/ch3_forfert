@@ -16,7 +16,6 @@ L'observatoire des Disparités dans la Justice Pénale a modélisé [de nombres 
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/6375364">
 	<script src="https://public.flourish.studio/resources/embed.js"></script>
-	<iframe scrolling="no" frameborder="0" title="Interactive or visual content" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" style="width: 100%; height: 575px;" src="https://flo.uri.sh/visualisation/6375364/embed?auto=1"></iframe>
 </div>
 
 ## Un problème qui infiltre toute la vie carcérale
