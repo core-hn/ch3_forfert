@@ -27,7 +27,7 @@ Le plan "Informatique Pour Tous" a été mis en place pour plusieurs raisons cl�
 
 En résumé, le plan "Informatique Pour Tous" avait pour but d'introduire l'informatique à tous les niveaux d'enseignement en France, de former les enseignants et d'assurer une meilleure préparation des citoyens aux enjeux technologiques contemporains.
 
-## Milieu pénitentiaire
+## PIT en Milieu pénitentiaire
 Le plan "Informatique pour tous" semble avoir été étendu au milieu pénitentiaire grâce à l'implication de l'association [CLIP](https://assoclip.fr/) (Club Informatique Pénitentiaire)[^5].
 
 D'après N. Aubin-Gardé[^5], le CLIP "intervient depuis 1985 bénévolement dans les établissements pénitentiaires".
@@ -35,7 +35,9 @@ D'après N. Aubin-Gardé[^5], le CLIP "intervient depuis 1985 bénévolement dan
 > [!cite] Note de bas de page du travail de N. Aubin-Gardé
 > Le CLIP intervient dans une cinquantaine d'établissements pénitentiaires français. Pour enseigner les bases de la navigation Internet, l'association a conçu un « simulateur internet », Clipinet qui n'a aucune communication avec l'extérieur mais héberge localement ue cenaine de sites. Le logiciel fonctionne dans une structure de réseau local, un des ordinateurs de la salle informatique étant utilisé comme serveur.
 
-On peut en conclure que l'
+## 1982 les TO7 : contexte
+![[1982-83-atelier-informatique.png|Légende de l'image]]
+Source : https://data.decalog.net/enap1/Liens/DAP/DAP_RA_1983.pdf
 
 [^1]:  [Wikipédia Thomson TO7](https://fr.wikipedia.org/wiki/Thomson_TO7)
 [^2]: [nodesign.net](https://www.nodesign.net/blog/plan-informatique-pour-tous-ipt-saudade-du-futur/) 

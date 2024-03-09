@@ -9,7 +9,7 @@ Ce chapitre vous est proposé sous la forme hypertextuelle. L'entretien est enri
 ***
 ## Quels souvenirs avez-vous de l'introduction de la technologie à d'autres fins que la sécurité en prison ?
 
-La première fois remonte au [[⛔️ IA Plan informatique pour tous|plan informatique pour tous en 1982]]. Nous faisions partie des établissements équipés des premiers [[Thomson TO7|TO7]]. Alors évidemment, il faut ramener à ce que c'était à l'époque le TO7. Mais bon, ça a participé à un engouement, à quelque chose d'excitant, qui a aussi aux instituteurs de réfléchir aux modalités pédagogiques.
+La première fois remonte au [[⛔️ IA Plan informatique pour tous|plan informatique pour tous en 1982]][^PIT]. Nous faisions partie des établissements équipés des premiers [[Thomson TO7|TO7]]. Alors évidemment, il faut ramener à ce que c'était à l'époque le TO7. Mais bon, ça a participé à un engouement, à quelque chose d'excitant, qui a aussi aux instituteurs de réfléchir aux modalités pédagogiques.
 
 L'année suivante, 1983, on a eu l'entrée de la télévision. Et là aussi, même si les programmes télé de l'époque n'étaient pas ceux d'aujourd'hui, il y avait aussi des documentaires, en dehors du divertissement, de la consommation pure et simple de la télé dans la cellule. Donc là aussi ça a été un départ.
 
@@ -32,11 +32,11 @@ Quand ils en avaient terminé, la plupart des débouchés étaient vers l'imprim
 
 Cette opération était très intéressante, mais le problème, c'est que je suis parti. Derrière, de nombreux collègues sont partis, ça a changé de directeur, de gouvernement. Alors que c’était vraiment une opération intéressante. Enfin voilà quoi, c’est toujours le même problème et ça m’a toujours un peu énervé quand on faisait des choses intéressantes en prison, qu’il n’y ait pas un service chargé, au niveau central, de capitaliser tout ça. Vraiment dommage.  
 
-Le seul qui a "récidivé". Mais le pauvre, il avait bien gagné sa vie. En sortant, il a rencontré une nana et il a voulu se faire une petite année sabbatique. Il est parti au Népal, en Inde, à droite, à gauche avec sa copine. Et puis là-haut, il a eu un accident de moto, avec une grosse blessure à une jambe et quand il a été rapatrié en France, il a été reconnu adulte handicapé et donc il a vivoté de sa petite pension d'adulte handicapé, fumant son petit joint le soir sur les hauteurs de Nice[^nice] avec sa copine regardant le coucher de soleil. Et il allait chercher sa came une fois par mois, ou tous les deux ou trois mois en passant par Sète.
+Le seul qui a "récidivé". Mais le pauvre, il avait bien gagné sa vie. En sortant, il a rencontré une nana et il a voulu se faire une petite année sabbatique. Il est parti au Népal, en Inde, à droite, à gauche avec sa copine. Et puis là-haut, il a eu un accident de moto, avec une grosse blessure à une jambe et quand il a été rapatrié en France, il a été reconnu adulte handicapé et donc il a vivoté de sa petite pension d'adulte handicapé, fumant son petit joint le soir sur les hauteurs de Nice[^anonymat] avec sa copine regardant le coucher de soleil. Et il allait chercher sa came une fois par mois, ou tous les deux ou trois mois en passant par Sète.
 
 Parce que, à l'époque, Sète n'était pas très surveillé au niveau du port voyageur-passager. Donc il passait par là et puis après il rentrait à Lille. Du coup, je ai rencontré sa copine comme ça, elle a atterri à la prison de Villeneuve-lès-Maguelone[^maguelone] et on a bien discuté.
 
-En tout cas, il n'a jamais recomis de délit grave, ce dont il avait l'habitude parce que il était multi-récidiviste. Il y a un autre ancien détenu du dispositif PAO qui bosse encore du côté de Grenoble[^1], dans une boîte de pub.
+En tout cas, il n'a jamais recomis de délit grave, ce dont il avait l'habitude parce que il était multi-récidiviste. Il y a un autre ancien détenu du dispositif PAO qui bosse encore du côté de Grenoble[^anonymat], dans une boîte de pub.
 
 Le grand intérêt de cette formation, c'est que les jobs ensuite étaient intéressants et que les détenus entraient dans d'autres sphères. 
 
@@ -58,7 +58,7 @@ Et c'était aussi très intéressant parce que là aussi, il y a eu un engouemen
 
 Avec cette chaîne télé, on avait deux intervenants extérieurs, pour avoir un atelier qui tourne toute la journée. Ils pouvaient faire fonctionner la chaîne toute la journée. On avait un intervenant qui venait le matin, un autre qui venait l'après-midi, ce qui nous avait aussi permis d'allonger la journée pénitentiaire. Dépasser le sacro-saint "17h30".
 
-Ils faisaient des petits reportages à l'intérieur pour expliquer quelque chose, pour faire de la publicité à je ne sais quoi, encourager les gens à s'inscrire dans telle nouvelle activité ou tout un tas de choses comme ça. Et puis ils faisaient des interviews aussi. Donc c'était intéressant et puis surtout ça fonctionnait bien. Parce qu'on avait quand même pas mal d’audimat. On a fait des sondages à deux reprises, on avait des auditeurs qui parfois, dépassaient les 30% de la population de la maison d’arrêt de Strasbourg. Je ne sais pas si tout le monde voit ce que ça représente 30%[^4]. Alors pas de manière continue hein ?
+Ils faisaient des petits reportages à l'intérieur pour expliquer quelque chose, pour faire de la publicité à je ne sais quoi, encourager les gens à s'inscrire dans telle nouvelle activité ou tout un tas de choses comme ça. Et puis ils faisaient des interviews aussi. Donc c'était intéressant et puis surtout ça fonctionnait bien. Parce qu'on avait quand même pas mal d’audimat. On a fait des sondages à deux reprises, on avait des auditeurs qui parfois, dépassaient les 30% de la population de la maison d’arrêt de Strasbourg. Je ne sais pas si tout le monde voit ce que ça représente 30%[^population]. Alors pas de manière continue hein ?
 
 Il y a ceux qui regardaient les informations de la chaîne sur ce qui se passait à l'intérieur, il y a ceux qui voulaient s'informer que les horaires de parloir étaient modifiés parce qu'il y avait des jours fériés pour qu'ils préviennent leur famille, et cetera. Donc il y avait des informations le quotidien, puis il y avait des petits programmes un peu plus culturels ou informatifs ou documentaires.
 
@@ -167,8 +167,8 @@ Les projets restent toujours des initiatives locales qui ne se propagent pas au 
 
 L'administration central ne conserve pas de traces. Il n'y a pas un service chargé de recenser les initiatives des prisons, SPIP et milieux ouverts de France pour ensuite généraliser les expérimentations prometteuses. Ils pourraient développer certaines expérimentation à quelques établissements supplémentaires, et faire progresser la réinsertion. Malheureusement, ce n'est pas ainsi que fonctionne notre administration pénitentiaire.
 
-[^nice]: Le nom de la ville a été modifié pour garantir l'anonymat.
+[^PIT]: Le plan informatique pour tous (PIT) n'a pas été strictement ouvert en 1982, plutôt en 1985. Les TO7 ont véritablement été édités en 1982, mais n'étaient pas les modèles impliqués dans le PIT. Plus d'informations sur [[⛔️ IA Plan informatique pour tous|la page dédiée]].
+[^anonymat]: Le nom de la ville a été modifié pour garantir l'anonymat.
 [^maguelone]: Prison où exerçait Charles Forfert avant son départ à la retraite, cf [[Charles Forfert - Biographie|sa biographie]].
 [^administration]: Charles Forfert regrette que l'administration pénitentiaire ne développe pas sur le territoire national les initiatives locales qui ont fait leurs preuves.
-[^4]: Capacité d'accueil de la maison d'arrêt de Strasbourg : 447 détenus, en surpopulation constante de 160% selon le DNA et le CGLPL [source](https://www.dna.fr/edition-de-strasbourg/2019/03/16/trois-ans-de-travaux-a-la-maison-d-arret)
-[^5]: Nicole Maestracci 
+[^population]: Capacité d'accueil de la maison d'arrêt de Strasbourg : 447 détenus, en surpopulation constante de 160% selon le DNA et le CGLPL [source](https://www.dna.fr/edition-de-strasbourg/2019/03/16/trois-ans-de-travaux-a-la-maison-d-arret)
