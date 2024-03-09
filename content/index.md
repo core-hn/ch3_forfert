@@ -32,15 +32,15 @@ Quand ils en avaient terminé, la plupart des débouchés étaient vers l'imprim
 
 Cette opération était très intéressante, mais le problème, c'est que je suis parti. Derrière, de nombreux collègues sont partis, ça a changé de directeur, de gouvernement. Alors que c’était vraiment une opération intéressante. Enfin voilà quoi, c’est toujours le même problème et ça m’a toujours un peu énervé quand on faisait des choses intéressantes en prison, qu’il n’y ait pas un service chargé, au niveau central, de capitaliser tout ça. Vraiment dommage.  
 
-Le seul qui a "récidivé". Mais le pauvre, il avait bien gagné sa vie. En sortant, il a rencontré une nana et il a voulu se faire une petite année sabbatique. Il est parti au Népal, en Inde, à droite, à gauche avec sa copine. Et puis là-haut, il a eu un accident de moto, avec une grosse blessure à une jambe et quand il a été rapatrié en France, il a été reconnu adulte handicapé et donc il a vivoté de sa petite pension d'adulte handicapé, fumant son petit joint le soir sur les hauteurs de Nice[^1] avec sa copine regardant le coucher de soleil. Et il allait chercher sa came une fois par mois, ou tous les deux ou trois mois en passant par Sète.
+Le seul qui a "récidivé". Mais le pauvre, il avait bien gagné sa vie. En sortant, il a rencontré une nana et il a voulu se faire une petite année sabbatique. Il est parti au Népal, en Inde, à droite, à gauche avec sa copine. Et puis là-haut, il a eu un accident de moto, avec une grosse blessure à une jambe et quand il a été rapatrié en France, il a été reconnu adulte handicapé et donc il a vivoté de sa petite pension d'adulte handicapé, fumant son petit joint le soir sur les hauteurs de Nice[^nice] avec sa copine regardant le coucher de soleil. Et il allait chercher sa came une fois par mois, ou tous les deux ou trois mois en passant par Sète.
 
-Parce que, à l'époque, Sète n'était pas très surveillé au niveau du port voyageur-passager. Donc il passait par là et puis après il rentrait à Lille. Du coup, je ai rencontré sa copine comme ça, elle a atterri à la prison de Villeneuve-lès-Maguelone[^2] et on a bien discuté.
+Parce que, à l'époque, Sète n'était pas très surveillé au niveau du port voyageur-passager. Donc il passait par là et puis après il rentrait à Lille. Du coup, je ai rencontré sa copine comme ça, elle a atterri à la prison de Villeneuve-lès-Maguelone[^maguelone] et on a bien discuté.
 
 En tout cas, il n'a jamais recomis de délit grave, ce dont il avait l'habitude parce que il était multi-récidiviste. Il y a un autre ancien détenu du dispositif PAO qui bosse encore du côté de Grenoble[^1], dans une boîte de pub.
 
 Le grand intérêt de cette formation, c'est que les jobs ensuite étaient intéressants et que les détenus entraient dans d'autres sphères. 
 
-Alors certes, entre-temps, petit à petit, ils se sont modernisés, mais on avait une imprimerie dans l'administration pénitentiaire à Melun. On aurait pu en profiter[^3], pour moderniser cette imprimerie beaucoup plus tôt. Et utiliser la PAO et tous les nouveaux outils qui étaient à disposition. Bon aujourd'hui, certainement qu'ils l'ont fait.
+Alors certes, entre-temps, petit à petit, ils se sont modernisés, mais on avait une imprimerie dans l'administration pénitentiaire à Melun. On aurait pu en profiter[^administration], pour moderniser cette imprimerie beaucoup plus tôt. Et utiliser la PAO et tous les nouveaux outils qui étaient à disposition. Bon aujourd'hui, certainement qu'ils l'ont fait.
 
 Encore que, avec la dématérialisation, je ne suis pas sûr que l'imprimerie existe encore. Là aussi je je suis un peu out au niveau des bonnes informations. Enfin voilà. Cette opération financée par le FSE a été très suivie, car il y avait un coût important quand même. Cette opération a donné des idées à d’autres, pour de nouvelles initiatives, pour faire tourner leur imagination et essayer de trouver des choses qui pouvaient galvaniser un peu les troupes.
 
@@ -167,8 +167,8 @@ Les projets restent toujours des initiatives locales qui ne se propagent pas au 
 
 L'administration central ne conserve pas de traces. Il n'y a pas un service chargé de recenser les initiatives des prisons, SPIP et milieux ouverts de France pour ensuite généraliser les expérimentations prometteuses. Ils pourraient développer certaines expérimentation à quelques établissements supplémentaires, et faire progresser la réinsertion. Malheureusement, ce n'est pas ainsi que fonctionne notre administration pénitentiaire.
 
-[^1]: Le nom de la ville a été modifié pour garantir l'anonymat.
-[^2]: Prison où exerçait Charles Forfert avant son départ à la retraite, cf [[Charles Forfert - Biographie|sa biographie]].
-[^3]: Charles Forfert regrette que l'administration pénitentiaire ne développe pas sur le territoire national les initiatives locales qui ont fait leurs preuves.
+[^nice]: Le nom de la ville a été modifié pour garantir l'anonymat.
+[^maguelone]: Prison où exerçait Charles Forfert avant son départ à la retraite, cf [[Charles Forfert - Biographie|sa biographie]].
+[^administration]: Charles Forfert regrette que l'administration pénitentiaire ne développe pas sur le territoire national les initiatives locales qui ont fait leurs preuves.
 [^4]: Capacité d'accueil de la maison d'arrêt de Strasbourg : 447 détenus, en surpopulation constante de 160% selon le DNA et le CGLPL [source](https://www.dna.fr/edition-de-strasbourg/2019/03/16/trois-ans-de-travaux-a-la-maison-d-arret)
 [^5]: Nicole Maestracci 
