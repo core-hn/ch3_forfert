@@ -21,9 +21,9 @@ Ce plan est considéré comme une étape importante de l'histoire française en 
 [[content/index|C. Forfert]] mentionne les TO7 comme inhérents au PIT. Il règne une incertitude sur ce propos, dans la mesure où le PIT n'a pas été initié 1982, mais en 1985. En revanche, les TO7 ont bien connu un essort considérable en 1982. Les TO7 qu'a réussi à obtenir C. Forfert en 1982 n'étaient pas immédiatement liés au PIT, mais s'inscrivaient probablement dans un autre cadre. On peut voir, dans un document d'archive (dont voici un extrait ci-dessous), que l'acquisition de matériel informatique à des fins formatives au sein des établissement pénitentiaires était possible au moyen de prêts.
 
 > [!note] Extrait d'archives
-> 
-> ![[1982-83-atelier-informatique.png]]
-> [Source](https://data.decalog.net/enap1/Liens/DAP/DAP_RA_1983.pdf)
+
+ ![[1982-83-atelier-informatique.png]]
+ [Source](https://data.decalog.net/enap1/Liens/DAP/DAP_RA_1983.pdf)
 
 
 Le matériel déployé par l'État lors du PIT était essentiellement composé de Thomson MO5 et TO7/70, un modèle ultérieur au TO7 mentionné plus tôt. Ces deux modèles se distinguent du TO7 par l'ancêtre de la souris, le stylet, qui facilite considérablement l'utilisation de l'outil informatique[^nodesign].
